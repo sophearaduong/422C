@@ -1,0 +1,21 @@
+Welcome to Mastermind.
+Do you want to play a new game? (Y/N):
+
+You have 4 guess(es) left.
+Enter guess:
+QQQQQQ -> 1b_0w
+
+You have 3 guess(es) left.
+Enter guess:
+QWQWQW -> 2b_0w
+
+You have 2 guess(es) left.
+Enter guess:
+QWEEEE -> 3b_0w
+
+You have 1 guess(es) left.
+Enter guess:
+QWERER -> 4b_0w
+You lose! The pattern was QWERTY
+
+Do you want to play a new game? (Y/N):

@@ -1,0 +1,74 @@
+Welcome to Mastermind.
+Do you want to play a new game? (Y/N):
+
+You have 12 guess(es) left.
+Enter guess:
+PPBG -> 1b_2w
+
+You have 11 guess(es) left.
+Enter guess:
+BGPP -> 0b_3w
+
+You have 10 guess(es) left.
+Enter guess:
+OPBG -> 2b_2w
+
+You have 9 guess(es) left.
+Enter guess:
+OPGB -> 4b_0w
+You win!
+
+Do you want to play a new game? (Y/N):
+
+You have 12 guess(es) left.
+Enter guess:
+BBBB -> 2b_0w
+
+You have 11 guess(es) left.
+Enter guess:
+RRBB -> 2b_1w
+
+You have 10 guess(es) left.
+Enter guess:
+BBRR -> 1b_2w
+
+You have 9 guess(es) left.
+Enter guess:
+OBRP -> 1b_1w
+
+You have 8 guess(es) left.
+Enter guess:
+RBRB -> 2b_1w
+
+You have 7 guess(es) left.
+Enter guess:
+PYRB -> 0b_3w
+
+You have 6 guess(es) left.
+Enter guess:
+RBYY -> 3b_0w
+
+You have 5 guess(es) left.
+Enter guess:
+BBBB -> 2b_0w
+RRBB -> 2b_1w
+BBRR -> 1b_2w
+OBRP -> 1b_1w
+RBRB -> 2b_1w
+PYRB -> 0b_3w
+RBYY -> 3b_0w
+
+You have 5 guess(es) left.
+Enter guess:
+RBGY -> 3b_0w
+
+You have 4 guess(es) left.
+Enter guess:
+RBOY -> 3b_0w
+
+You have 3 guess(es) left.
+Enter guess:
+RBBY -> 4b_0w
+You win!
+
+Do you want to play a new game? (Y/N):

@@ -1,0 +1,33 @@
+Welcome to Mastermind.
+Do you want to play a new game? (Y/N):
+
+You have 12 guess(es) left.
+Enter guess:
+GGGG -> 1b_0w
+
+You have 11 guess(es) left.
+Enter guess:
+GGBB -> 1b_1w
+
+You have 10 guess(es) left.
+Enter guess:
+BGBB -> 2b_0w
+
+You have 9 guess(es) left.
+Enter guess:
+BGRR -> 2b_0w
+
+You have 8 guess(es) left.
+Enter guess:
+BGPP -> 3b_0w
+
+You have 7 guess(es) left.
+Enter guess:
+BGPO -> 2b_2w
+
+You have 6 guess(es) left.
+Enter guess:
+BGOP -> 4b_0w
+You win!
+
+Do you want to play a new game? (Y/N):
